@@ -1,0 +1,10 @@
+C:\Users\athdga\Documents\Visual Studio 2015\Projects\Fix_InvoiceS\Fix_InvoiceS\bin\Debug\Fix_InvoiceS.exe.config
+C:\Users\athdga\Documents\Visual Studio 2015\Projects\Fix_InvoiceS\Fix_InvoiceS\bin\Debug\Fix_InvoiceS.exe
+C:\Users\athdga\Documents\Visual Studio 2015\Projects\Fix_InvoiceS\Fix_InvoiceS\bin\Debug\Fix_InvoiceS.pdb
+C:\Users\athdga\Documents\Visual Studio 2015\Projects\Fix_InvoiceS\Fix_InvoiceS\obj\Debug\Fix_InvoiceS.csprojResolveAssemblyReference.cache
+C:\Users\athdga\Documents\Visual Studio 2015\Projects\Fix_InvoiceS\Fix_InvoiceS\obj\Debug\Fix_InvoiceS.LoginForm.resources
+C:\Users\athdga\Documents\Visual Studio 2015\Projects\Fix_InvoiceS\Fix_InvoiceS\obj\Debug\Fix_InvoiceS.MajorForm.resources
+C:\Users\athdga\Documents\Visual Studio 2015\Projects\Fix_InvoiceS\Fix_InvoiceS\obj\Debug\Fix_InvoiceS.Properties.Resources.resources
+C:\Users\athdga\Documents\Visual Studio 2015\Projects\Fix_InvoiceS\Fix_InvoiceS\obj\Debug\Fix_InvoiceS.csproj.GenerateResource.Cache
+C:\Users\athdga\Documents\Visual Studio 2015\Projects\Fix_InvoiceS\Fix_InvoiceS\obj\Debug\Fix_InvoiceS.exe
+C:\Users\athdga\Documents\Visual Studio 2015\Projects\Fix_InvoiceS\Fix_InvoiceS\obj\Debug\Fix_InvoiceS.pdb
